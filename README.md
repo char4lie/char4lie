@@ -2,14 +2,11 @@
 
 <HEAD>
 
-<TITLE>FONT </TITLE>
 
 </HEAD>
 
 <body bgcolor="white" text="purple">
 
-<marquee direction="up"
-behavior"alternate">
 
 <H1> CHAR4LIE
  </H1>
